@@ -16,17 +16,26 @@ public class jornadaTrabalhoService {
 
 	@Autowired
 	jornadaTrabalhoRepository jornadaRepository;
-	
+
 	public JornadaTrabalho saveJornada(JornadaTrabalho jornada) {
 		return jornadaRepository.save(jornada);
-		
+
 	}
 
+	public JornadaTrabalho updateJornada(JornadaTrabalho jornada) {
+		return jornadaRepository.save(jornada);
+
+	}
+	
 	public List<JornadaTrabalho> findAll() {
 		return jornadaRepository.findAll();
 	}
 
 	public Optional<JornadaTrabalho> findByID(Long id) {
-		return jornadaRepository.findById(id);	
-		}
+		return jornadaRepository.findById(id);
+	}
+	
+	public void DeleteByID(Long id) {
+		jornadaRepository.deleteById(id);
+	}
 }
