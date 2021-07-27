@@ -31,7 +31,7 @@ public class jornadaTrabalhoController {
 		return jornadaService.saveJornada(jornadaTrabalho);
 	}
 	
-	@GetMapping
+	@GetMapping("/listAll")
 	public List<JornadaTrabalho> getJornadaList(){
 		return jornadaService.findAll();
 	}
