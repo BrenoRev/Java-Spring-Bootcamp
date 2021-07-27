@@ -20,5 +20,5 @@ import lombok.Setter;
 public class CategoriaUsuario {
     @Id
     private long id;
-    private String desscricao;
+    private String descricao;
 }
