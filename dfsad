@@ -1,0 +1,41 @@
+[33mcommit 6582552ef9fd896be37e23140639a106dedae44c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Tue Jul 27 19:35:10 2021 -0300
+
+    Implementando o swagger no projeto
+
+[33mcommit a4d1a83f71d4067c6542afac7121789a36a23c0f[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Tue Jul 27 19:19:32 2021 -0300
+
+    Finalizando o CRUD, delete, put, get e post
+
+[33mcommit 74ad6e305d149bf9a07e4d515328cc34a18052e3[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Tue Jul 27 18:59:51 2021 -0300
+
+    Adicionando consultas ao controller jornadaTrabalho
+
+[33mcommit f0c48a5e088bd017ab564bae86d1d364a409ce69[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Tue Jul 27 18:39:39 2021 -0300
+
+    Criando o controller, repository e service da jornadaTrabalho
+
+[33mcommit 4b84f1229236237c733f194fd0d4afd45e22a152[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Sun Jul 25 03:57:07 2021 -0300
+
+    Construindo o model pt1
+
+[33mcommit a055f3cabf2fee5a86a886ae96241664ae924aca[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Sat Jul 24 15:05:39 2021 -0300
+
+    Adicionando as dependências no gradle
+
+[33mcommit 19d6d9694c522db6796ed564e0afbe20c879d0cb[m
+Author: Breno Rev <silvabreno462@gmail.com>
+Date:   Sat Jul 24 14:48:35 2021 -0300
+
+    Starting Project
